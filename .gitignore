@@ -1,0 +1,73 @@
+# vs
+ipch/
+Debug/
+Release/
+GeneratedFiles/
+/VTScan_2015.VC.VC.opendb
+
+# lib
+*.exe
+*.dll
+*.ilk
+*.lib
+*.obj
+*.pdb
+*.sdf
+*.exp
+*.vsp
+
+*.psess
+*.map
+*.suo
+*.db
+*.opensdf
+
+#rar
+*.7z
+*.rar
+
+
+#image
+*.bmp
+
+
+*.tlog
+*.ply
+*.tex
+*.zip
+*.mtl
+*.cam
+*.bak
+.cmake
+
+*.bat
+
+*.svg
+*.log
+
+
+GeneratedFiles/
+/VTScan_2015.VC.VC.opendb
+*.opensdf
+*.txt
+*.jpg
+*.md
+VTTest/TestDlib/Makefile
+VTTest/TestDlib/main1.cpp
+VTTest/TestDlib/luv.h
+VTTest/TestDlib/luv.cpp
+VTTest/TestDlib/haarcascade_frontalface_alt.xml
+VTTest/TestDlib/haarcascade_frontalface_alt (cópia).xml
+VTTest/TestDlib/haarcascade_eye.xml
+VTTest/TestDlib/haarcascade_eye (cópia).xml
+VTTest/TestSuanfa/imgBinary.png
+VTTest/TestSuanfa/tBinary2.png
+VTTest/TestSuanfa/tBinary0_1.png
+VTTest/TestSuanfa/tBinary0.png
+VTTest/TestSuanfa/tBinary.png
+VTTest/TestSuanfa/imgSrcP1.png
+VTTest/TestSuanfa/tdepSave.png
+VTTest/TestSuanfa/roiDep.png
+VTTest/TestSuanfa/CodeRoi.png
+VTTest/TestSuanfa/ roiing.png
+VTTest/TestSuanfa/ CodeRoi.png
